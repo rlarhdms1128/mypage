@@ -7,7 +7,7 @@ st.set_page_config(
 menu = st. selectbox('MENU',['자기소개','학교소개','동아리소개','관심분야'])
 if menu == '자기소개':
     st.subheader('자기소개')
-st.wrtie
+        
 elif menu == '학교소개':
     st.subheader('학교소개')
 
